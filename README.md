@@ -2,7 +2,7 @@
 A simple yet effective counter application built with HTML, CSS, and JavaScript. This project was developed for practice and to reinforce fundamental JavaScript concepts.
 
 ### 🚀 Live Demo: Minimalistic Counter App
-
+**https://counter-app-shyngys.netlify.app/**
 ### 🛠 Features
 ```
 ✅ Increment and track count
