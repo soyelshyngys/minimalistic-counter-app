@@ -13,7 +13,7 @@ A simple yet effective counter application built with HTML, CSS, and JavaScript.
 ```
 
 ### 📸 Preview
-![Preview](yarn.jpg.png)
+![Preview](couter-app.jpg)
 
 ### 📂 Project Structure
 ```
